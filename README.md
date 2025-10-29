@@ -12,6 +12,8 @@
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Nosso trabalho vai ser feito em Frontend e Mobile, onde o Frontend vai ser a parte mais básica, já a parte do Mobile vamos procurar criar alguns comandos mais elaborados para ser usado de forma mais remota de onde estiver e usar os comandos de uma forma mais simples como por exemplo usar Botões para comandar a direção que o Braço robotico vai se mexer ou apenas definir sua ação.
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Nosso figma do mobile ja está sendo prototipada e entrando nos estagios intermediarios. Teremos suporte tanto para mobile quanto para web.
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Ao final, o projeto pretende oferecer uma alternativa econômica e eficiente para pequenas e médias empresas, contribuindo para a democratização da automação industrial e incentivando o uso de tecnologias abertas na Indústria 4.0.
 # ------------------------------------------------------------------------------------------------------------------------------
 ## Fontes: https://autenticaengenharia.com/blog/automacao-industrial-e-robotica-os-robos-kuka-e-fanuc-transformando-sua-fabrica/
