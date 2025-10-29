@@ -16,3 +16,10 @@
 # ------------------------------------------------------------------------------------------------------------------------------
 ## Fontes: https://autenticaengenharia.com/blog/automacao-industrial-e-robotica-os-robos-kuka-e-fanuc-transformando-sua-fabrica/
 # https://new.abb.com/news/pt-br/detail/128456/robotica-inteligente-a-nova-fronteira-da-automacao-industrial
+
+## Função de cada Membro: 
+## Mioto - Documentação e ajudante
+## Anthony - Documentação e ajudante
+## Gulitti - Codigo e Prototipagem
+## Giovana - Codigo e Prototipagem
+## Espadoni - 
